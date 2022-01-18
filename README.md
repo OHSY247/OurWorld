@@ -1,5 +1,7 @@
 # OurWorld
 > 我们的世界java服务器
+
+> 官方文档：https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server
 ## 粗略需求：
   - 关于论坛功能，能满足日常发帖的交流需求，满足不同分区不同分区的具体实例的交流或分享需求。（评论点赞转发）
   - OHYS内部交流平台，加密通话，视频语音通话。
