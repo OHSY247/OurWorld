@@ -28,4 +28,5 @@ logs/
 nohuo.out
 
 ### 所有的dat数据文件
-**.dat
+**/*.dat
+**/*.json
