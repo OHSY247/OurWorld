@@ -29,4 +29,6 @@ nohup.out
 
 ### 所有的dat数据文件
 **/*.dat
+**/*.dat_old
 **/*.json
+**/*.json_old
