@@ -16,3 +16,6 @@
 |  ----  | ----  |
 | java版本 1.7  | `apt-get install openjdk-17-jdk` |
 | minecraft版本：  | [minecraft_server.1.18.1.jar](https://launcher.mojang.com/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar) |
+
+## 启动介绍
+`sudo java -Xmx2G -jar minecraftServer/minecraft_server.1.18.1.jar -port 512 nogui`
